@@ -11,3 +11,5 @@ O código foi testado utilizando o simulador Wokwi e a ferramenta educacional Bi
 - O LED vermelho acende primeiro, seguido pelo amarelo e, por fim, pelo verde.
 - A cada 3 segundos, a cor muda ciclicamente.
 - No loop principal, uma mensagem é impressa a cada segundo para indicar o funcionamento do sistema.
+
+Vídeo do resultado final na placa física: https://drive.google.com/file/d/1KS8rEzmwVnfgH3UltEQ2TpO_PKidYcFV/view?usp=sharing
